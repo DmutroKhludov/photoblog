@@ -1,0 +1,26 @@
+body{
+    width: 1200px;
+    padding: 71px 147px;
+    margin: 0 auto;
+}
+.button{
+    border: 1px solid #959292;
+    background: #fff;
+}
+.card {
+    width: 420px;
+}
+span{
+    margin-bottom: 32px;
+    margin-top: 62px;
+    font-weight: 300;
+    font-size: 14px;
+}
+h2{
+    font-weight: 400;
+    font-size: 30px;
+}
+p{
+    font-weight: 400;
+    font-size: 14px;
+}
