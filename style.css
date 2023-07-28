@@ -15,7 +15,13 @@ body {
     font-weight: 400;
     font-size: 14px;
 }
-
+.container{
+    width: 906px;
+    border: 2px solid red;
+    margin: 0 auto ;
+    padding-left: 15px;
+    padding-right: 15px;
+}
 nav {
     word-spacing: 99px;
     text-align: center;
@@ -63,6 +69,6 @@ span {
     font-size: 14px;
 }
 .main-wrap {
-    margin-top: 92px;
+    /*margin-top: 92px;*/
     margin-bottom: 94px;
 }
